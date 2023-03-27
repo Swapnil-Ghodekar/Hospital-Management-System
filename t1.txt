@@ -1,1 +1,1 @@
-
+Give extension as .txt to maintain a text file
