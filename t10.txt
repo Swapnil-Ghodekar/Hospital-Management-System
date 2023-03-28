@@ -1,1 +1,3 @@
 Hello, i am push this text file from my local to remote (git hub ), so lets do it
+
+Here i am add some text to a file no 10 , which is alraed uploaded on remote a=, now see the changes without add and commit
